@@ -1,17 +1,25 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
-import './index.css';
 import App from './App';
-import reportWebVitals from './reportWebVitals';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
+
 root.render(
-  <React.StrictMode>
-    <App />
-  </React.StrictMode>
+    // 컴포넌트 태그명의 이니셜은 대문자로하는 것이 원칙.
+  <App />
 );
 
-// If you want to start measuring performance in your app, pass a function
-// to log results (for example: reportWebVitals(console.log))
-// or send to an analytics endpoint. Learn more: https://bit.ly/CRA-vitals
-reportWebVitals();
+// 태현아 키보드 정말 좋은데..?
+// 근데 나는 타닥타닥 소리나는게 좋더라..치는 느낌이 들어서
+// 내 예전자리 어때..?
+// 창문 열면 바람도 들어오고 좋지..?
+// 저기 복도자리는 반대편 소식이 너무 잘 들려서 관심이 거기로 가드라
+// 이쪽 소식은 하나도 안들리더라고....
+// 그리구 태현아..요즘 왜케 졸아 ㅠㅠㅠㅠ
+// 우리조에서 너가 브레인인데... 자면 어떻하닝.,...
+// 우리 정신 똑디 차리고 수업듣자...! 알겠징?!
+// 화이팅하구 졸지말구 열심히 수업 듣고 애들일아 사이좋게 지내구
+// 건강하게 지내고! 단 것 너무 많이 먹지말고..
+// 쌤처럼 치과 200넘게 나오면... 슬프자낭...
+// 우리 단거 먹는거 줄여보자!
+// 화이팅!!!!
